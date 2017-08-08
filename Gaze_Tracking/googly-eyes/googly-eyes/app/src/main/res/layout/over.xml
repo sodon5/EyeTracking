@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/over"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="3"
+        android:visibility="visible">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/one_one_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#EE8484"
+                    android:visibility="invisible" />
+            </FrameLayout>
+
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/one_two_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/one_two_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#EB5F5F" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/one_three_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/one_three_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#E90505" />
+
+            </FrameLayout>
+            //android:background="#EE8484"
+            //android:background="#EB5F5F"
+            //android:background="#E90505"
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/two_one_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/two_one_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#DEE97A" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/two_two_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/two_two_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#DAEB48" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/two_three_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/two_three_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#D0E700" />
+
+            </FrameLayout>
+
+            //android:background="#DEE97A"
+            //android:background="#DAEB48"
+            //android:background="#D0E700"
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/three_one_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/three_one_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#ABBDE8" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/three_two_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/three_two_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#577FDD" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <View
+                    android:id="@+id/three_three_off"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#00000000" />
+
+                <View
+                    android:id="@+id/three_three_on"
+                    android:layout_width="400px"
+                    android:layout_height="200px"
+                    android:background="#255CDC" />
+            </FrameLayout>
+            //android:background="#ABBDE8"
+            //android:background="#577FDD"
+            //android:background="#255CDC"
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>
