@@ -1,83 +1,79 @@
 # References
 
-## Google VISION API
+## [Google VISION API]
 
-### GOOGLE MOBILE vision API
-- http://gorakgarak.tistory.com/701
+### - GOOGLE MOBILE vision API
+> http://gorakgarak.tistory.com/701
 
-### ¾Èµå·ÎÀÌµå face detection ¿¹½Ã (google vision API »ç¿ë)
-- https://pineoc.blogspot.kr/2016/07/android-face-detection.html
+### - ì•ˆë“œë¡œì´ë“œ face detection ì˜ˆì‹œ (google vision API ì‚¬ìš©)
+> https://pineoc.blogspot.kr/2016/07/android-face-detection.html
 
-## OpenCV
+## [OpenCV]
 
-### openCV downloads
-- http://opencv.org/releases.html
+### - openCV downloads
+> http://opencv.org/releases.html
 
-### openCV °ü·Ã Ä«Æä
-- http://cafe.naver.com/opencv.cafe
+### - openCV ê´€ë ¨ ì¹´íŽ˜
+> http://cafe.naver.com/opencv.cafe
 
-### OpenCV °­ÁÂ
-- https://www.inflearn.com/course/opencv-lecture/
+### - OpenCV ê°•ì¢Œ
+> https://www.inflearn.com/course/opencv-lecture/
 
-###openCV ¼³Ä¡ ¹× »ç¿ë
-- http://nocomet.tistory.com/16
+### - openCV ì„¤ì¹˜ ë° ì‚¬ìš©
+> http://nocomet.tistory.com/16
 
-### openCV 2.4.11 64bit ¼³Ä¡ + visual studio 2013 ¼³Á¤
-- http://freeprog.tistory.com/91
+### - openCV 2.4.11 64bit ì„¤ì¹˜ + visual studio 2013 ì„¤ì •
+> http://freeprog.tistory.com/91
 
-### ¾Èµå·ÎÀÌµå OpenCV ¾ó±¼ ÀÎ½Ä ¿¹Á¦ 01
-- http://blog.naver.com/PostView.nhn?blogId=ehdgurdl123&logNo=220597098807&parentCategoryNo=&categoryNo=29&viewDate=&isShowPopularPosts=false&from=section
+### - ì•ˆë“œë¡œì´ë“œ OpenCV ì–¼êµ´ ì¸ì‹ ì˜ˆì œ 01
+> http://blog.naver.com/PostView.nhn?blogId=ehdgurdl123&logNo=220597098807&parentCategoryNo=&categoryNo=29&viewDate=&isShowPopularPosts=false&from=section
 
-### ¾Èµå·ÎÀÌµå openCV ¾ó±¼ÀÎ½Ä ¿¹Á¦ 02
-- https://softory.wordpress.com/2015/08/12/5/
+### - ì•ˆë“œë¡œì´ë“œ openCV ì–¼êµ´ì¸ì‹ ì˜ˆì œ 02
+> https://softory.wordpress.com/2015/08/12/5/
 
-### Android NDK + OpenCV Ä«¸Þ¶ó ¿¹Á¦ ¹× ÇÁ·ÎÁ§Æ® »ý¼º¹æ¹ý(CMake »ç¿ë) -> 01-1
-- http://webnautes.tistory.com/1054
+### - Android NDK + OpenCV ì¹´ë©”ë¼ ì˜ˆì œ ë° í”„ë¡œì íŠ¸ ìƒì„±ë°©ë²•(CMake ì‚¬ìš©) -> 01-1
+> http://webnautes.tistory.com/1054
 
-### Android NDK + OpenCV Ä«¸Þ¶ó ¿¹Á¦ ¹× ÇÁ·ÎÁ§Æ® »ý¼º¹æ¹ý(ndk-build »ç¿ë) -> 01-2
-- http://webnautes.tistory.com/923
+### - Android NDK + OpenCV ì¹´ë©”ë¼ ì˜ˆì œ ë° í”„ë¡œì íŠ¸ ìƒì„±ë°©ë²•(ndk-build ì‚¬ìš©) -> 01-2
+> http://webnautes.tistory.com/923
 
+### - OpenCVì™€ NDKë¥¼ ì‚¬ìš©í•˜ì—¬ Androidì—ì„œ Face Detection(ì–¼êµ´ ì¸ì‹) -> 02
+> http://webnautes.tistory.com/1087
 
-### OpenCV¿Í NDK¸¦ »ç¿ëÇÏ¿© Android¿¡¼­ Face Detection(¾ó±¼ ÀÎ½Ä) -> 02
-- http://webnautes.tistory.com/1087
+### openCVë¡œ ëˆˆì½”ìž… ì°¾ê¸°
+> http://blog.daum.net/suckyang/5
 
-### openCV·Î ´«ÄÚÀÔ Ã£±â
-- http://blog.daum.net/suckyang/5
+### - [C/C++/MFC/OpenCV] ì–¼êµ´ ë° ëˆˆ ì˜ì—­ ê²€ì¶œ
+> http://duzi077.tistory.com/2 
 
-### [C/C++/MFC/OpenCV] ¾ó±¼ ¹× ´« ¿µ¿ª °ËÃâ
+### - android eye detection and tracking with openCV
+> http://romanhosek.cz/android-eye-detection-and-tracking-with-opencv/
 
-- http://duzi077.tistory.com/2 
+## [detecting pupil]
 
-### android eye detection and tracking with openCV
-- http://romanhosek.cz/android-eye-detection-and-tracking-with-opencv/
+### - Detect Pupil with openCV
+> https://github.com/habibm/Android-Pupil-Detector
 
-## detecting pupil
+### - How to detect eye pupil circularly in opencv
+> https://stackoverflow.com/questions/20535317/how-to-detect-eye-pupil-circularly-in-opencv
 
-### Detect Pupil with openCV
-- https://github.com/habibm/Android-Pupil-Detector
+### - youtube video with sample comde
+> https://www.youtube.com/watch?v=LHfUeyxhgvk 
 
-### How to detect eye pupil circularly in opencv
-- https://stackoverflow.com/questions/20535317/how-to-detect-eye-pupil-circularly-in-opencv
+## [[Others]]
 
-### youtube video with sample comde
-- https://www.youtube.com/watch?v=LHfUeyxhgvk 
+### - ì–¼êµ´ ì¸ì‹ ë¼ì´ë¸ŒëŸ¬ë¦¬ ë§í¬ ëª¨ìŒ
+> http://gorakgarak.tistory.com/703
 
+### - MS OXFORD FACE API
+> http://gorakgarak.tistory.com/704
 
-______________________________________________________________________________
-## Others
+### - Ahytham gaze tracker
+> https://sourceforge.net/projects/haytham/?source=typ_redirect
 
-### ¾ó±¼ ÀÎ½Ä ¶óÀÌºê·¯¸® ¸µÅ© ¸ðÀ½
-- http://gorakgarak.tistory.com/703
+### - Exploring Eye tracking techiniques on smartphone
+> http://uu.diva-portal.org/smash/get/diva2:847942/FULLTEXT01.pdf
 
-### MS OXFORD FACE API
-- http://gorakgarak.tistory.com/704
-
-### Ahytham gaze tracker
-- https://sourceforge.net/projects/haytham/?source=typ_redirect
-
-### Exploring Eye tracking techiniques on smartphone
-- http://uu.diva-portal.org/smash/get/diva2:847942/FULLTEXT01.pdf
-
-### FAce detection app
-- https://github.com/tzutalin/dlib-android-app
+### - Face detection app
+> https://github.com/tzutalin/dlib-android-app
 
